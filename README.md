@@ -36,7 +36,11 @@ pip install -r requirements.txt
 *   **`Medical_Supplier_Analysis.ipynb`**: Il notebook Jupyter contenente tutto il codice Python, l'analisi esplorativa dei dati (EDA), la pulizia dei dati, l'addestramento del modello e la valutazione.
 *   **`README.md`**: Questo file, che fornisce una panoramica del progetto.
 *   **`requirements.txt`**: Un file che elenca tutte le librerie Python necessarie per riprodurre l'ambiente di analisi.
+<<<<<<< HEAD
 *   **`blog_post.md`**: Una copia dell'articolo del blog che riassume i risultati in modo non tecnico, reperibile all'indirizzo https://medium.com/@gcapanna/will-your-next-medical-supplier-accept-your-insurance-the-data-might-have-the-answer-5696ecd5ceee
+=======
+*   **`blogpost.md`**: Una copia dell'articolo del blog che riassume i risultati in modo non tecnico, pubblicato al seguente indirizzo: https://medium.com/@gcapanna/will-your-next-medical-supplier-accept-your-insurance-the-data-might-have-the-answer-5696ecd5ceee
+>>>>>>> 1869a29c3c2d8a03860f1a689a73b7a3c9fa26ee
 
 ## Riepilogo dell'Analisi
 
